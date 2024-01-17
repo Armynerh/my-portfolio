@@ -144,7 +144,7 @@ If you like this project leave a start for it.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for helping me in the journey to become a Fullstack developer.
+I would like to thank Microverse for helping me on my journey to become a Fullstack developer.
 
 Special thanks to 
 
