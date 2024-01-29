@@ -4,7 +4,7 @@ import { MdOutlineKeyboardDoubleArrowRight } from 'react-icons/md';
 function Home() {
   return (
     <div name="home" className="h-screen w-full">
-      <div className="max-w-screen-lg mx-auto flex flex-col item-center justify-center h-full px-4 md:flex-row">
+      <div className="max-w-screen-lg mx-auto flex flex-col item-center justify-center h-full px-8 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-5xl sm:text-7xl font-extrabold text-teal-950">Hi, I&lsquo;m Kehinde and I am a Fullstack Developer</h2>
           <p className="text-teal-950 py-4 max-w-md">
