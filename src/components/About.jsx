@@ -1,34 +1,25 @@
 import React from 'react';
 
 const About = () => (
-  <div name="about" className=" w-full h-screen text-teal-950 ">
+  <div name="about" className=" w-full md:h-screen text-teal-950 mb-10">
     <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-      <div className="bg-teal-950 p-8 mb-7">
-        <p className="text-white text-5xl font-extrabold inline border-b-4 border-gray-400">About Me</p>
+      <div className="bg-teal-950 p-8">
+        <p className="text-white text-4xl font-extrabold inline border-b-4 border-gray-400">About Me</p>
       </div>
       {/* eslint-disable */}
-      <p>
-        As I embark on the exciting adventure of full-stack software development, I find myself navigating the worlds of technology and education with ease. As an enthusiastic and dynamic professional, I am now working as a freelance full-stack developer. I have engaged in 100+ hours of remote pair programming with international peers, Implemented unit and integration tests with Jest, Unittest, Pytest and RSpec, achieving 95% test coverage, developed responsive and dynamic user interfaces using React.js, Implemented server-side logic and API integrations with Ruby on Rails and Flask, and designed and maintained relational databases using SQL (PostgreSQL, MySQL)
+      <p className="text-l mt-10">
+      
+In my journey as a full-stack software developer, I've discovered a passion for the intersection of technology and education. As a freelancer, I've dedicated over 100 hours to remote pair programming, fostering collaboration with international peers. My proficiency extends to implementing robust testing strategies with tools like Jest, Unittest, Pytest, and RSpec, achieving an impressive 95% test coverage. On the frontend, I specialize in crafting responsive and dynamic user interfaces using React.js. Meanwhile, on the server side, I excel in building logic and API integrations with Ruby on Rails and Flask, and I possess adept database design and maintenance skills using SQL, including PostgreSQL and MySQL.
       </p>
       <br />
-      <p>
-        Beyond the lines of code that I write, my story also delves into the world of teaching English as a Second Language. With a TEFL/IDP certification and more than three years of experience as an ESL/IELTS trainer, I&lsquo;ve discovered the perfect blend between linguistic refinement and technological competence.
+      <p className="text-l sm:mb-10">
+      With a unique background as an ESL teacher spanning six years, I bring a deep understanding of the education sector's intricacies. This experience equips me with valuable insights into the challenges faced by educators and students alike. Eager to combine my technical expertise with my passion for education, I am enthusiastic about contributing to projects that make a meaningful impact in the tech and education space.
       </p>
-      <br />
-      <p>
-        In terms of my career goals, I see myself not only as a programmer, but also as a future expert in tech curriculum creation and instruction. My motivation is driven by a desire to contribute to companies that are shaping the future of learning, developing digital landscapes in which information grows seamlessly.
+     
 
-      </p>
-      <br />
-      <p>
-
-        Beyond the computer and the classroom, I&lsquo;m usually engaged in the pages of a book, mesmerised by podcasts, studying the world through documentaries, travelling the world, or immersed in the strategic landscapes of games, every aspect of my life contributes to an ever-changing story.
-        I am on a mission to illuminate the intersection between technology and education, to create a narrative that goes beyond code and classrooms.
-      </p>
-      <br />
-      <p>
-        I love talk about the fascinating connections between technology and education. I&lsquo;m always ready to engage in conversations about coding, the latest in ReactJs, or researching potential career routes. I&lsquo;m look forward to meeting with like-minded people and exploring opportunities that match my experience. Send me a message, and let us go on this journey together!
-      </p>
+      
+    
+     
       
     </div>
   </div>
