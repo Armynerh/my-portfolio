@@ -1,6 +1,7 @@
 import Home from './components/Home';
 import NavBar from './components/NavBar';
 import MediaIcons from './components/MediaIcons';
+import About from './components/About';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <NavBar />
       <Home />
       <MediaIcons />
+      <About />
     </div>
   );
 }
