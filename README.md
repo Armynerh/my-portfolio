@@ -39,7 +39,7 @@
     <li><a href="https://www.w3schools.com/html/">HTML</a></li>
     <li><a href="https://www.w3schools.com/css/">CSS</a></li>
     <li><a href="https://react.dev/">React</a></li>
-    <li><a href="https://redux.js.org/">Redux</a></li>
+    <li><a href="https://redux.js.org/">Tailwind</a></li>
   </ul>
 </details>
 
@@ -146,7 +146,7 @@ If you like this project leave a start for it.
 
 I would like to thank Microverse for helping me on my journey to become a Fullstack developer.
 
-Special thanks to 
+Special thanks to [Yash Patel](https://www.youtube.com/@yashpatel1O1) for the idea.
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
