@@ -9,11 +9,11 @@ const About = () => (
       {/* eslint-disable */}
       <p className="text-l mt-10">
       
-In my journey as a full-stack software developer, I've discovered a passion for the intersection of technology and education. As a freelancer, I've dedicated over 100 hours to remote pair programming, fostering collaboration with international peers. My proficiency extends to implementing robust testing strategies with tools like Jest, Unittest, Pytest, and RSpec, achieving an impressive 95% test coverage. On the frontend, I specialize in crafting responsive and dynamic user interfaces using React.js. Meanwhile, on the server side, I excel in building logic and API integrations with Ruby on Rails and Flask, and I possess adept database design and maintenance skills using SQL, including PostgreSQL and MySQL.
+ As a freelance Fullstack Developer, I've dedicated over 100 hours to remote pair programming, fostering collaboration with international peers. My proficiency extends to implementing robust testing strategies with tools like Jest, Unittest, Pytest, and RSpec, achieving an impressive 95% test coverage. On the frontend, I specialize in creating responsive and dynamic user interfaces using React.js. Meanwhile, on the server side, I excel in building logic and API integrations with Ruby on Rails and Flask, and I possess adept database design and maintenance skills using SQL, including PostgreSQL and MySQL.
       </p>
       <br />
       <p className="text-l sm:mb-10">
-      With a unique background as an ESL teacher spanning six years, I bring a deep understanding of the education sector's intricacies. This experience equips me with valuable insights into the challenges faced by educators and students alike. Eager to combine my technical expertise with my passion for education, I am enthusiastic about contributing to projects that make a meaningful impact in the tech and education space.
+      With a unique background as a freelance virtual ESL teacher spanning six years, I bring a deep understanding of the education sector's intricacies. This experience also equips me with valuable insights into the challenges faced by users of technology. Eager to combine my technical expertise with my passion for solving problems, I am enthusiastic about contributing to projects that make meaningful impact.
       </p>
      
 
