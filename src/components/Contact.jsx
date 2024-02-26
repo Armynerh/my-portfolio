@@ -12,7 +12,7 @@ const Contact = () => (
           <input type="text" name="fullname" placeholder="Fullname" className="p-2 border-2 border-teal-950 focus:outline-none" />
           <input type="email" name="email" placeholder="Email Address" className="p-2 my-6 border-2 border-teal-950 focus:outline-none" />
           <textarea name="message" rows={10} className="p-2 border-2 border-teal-950 focus:outline-none" placeholder="Enter your message here" />
-          <button type="submit" className="text-white  px-6 py-3 my-8 mx-auto flex items-center rounded-md bg-gradient-to-r from-gray-600 to-teal-700 cursor-pointer group">Chat with me</button>
+          <button type="submit" className="text-white  px-6 py-3 my-8 mx-auto flex items-center rounded-md bg-gradient-to-r from-gray-600 to-teal-700 cursor-pointer w-fit">Chat with me</button>
 
         </form>
       </div>
