@@ -60,7 +60,7 @@
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-You can find the live demo [here!]
+You can find the live demo [here!](https://kenny-h.onrender.com/)
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
@@ -136,7 +136,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project leave a start for it.
+If you like this project leave a star.
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
