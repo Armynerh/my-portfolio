@@ -1,7 +1,7 @@
 import React from 'react';
 import budget from '../assets/portfolio/budget.png';
 import cruise from '../assets/portfolio/cruise.png';
-import math from '../assets/portfolio/math.png';
+import wed from '../assets/portfolio/wed.png';
 import malay from '../assets/portfolio/malay.png';
 import todo from '../assets/portfolio/todo.png';
 
