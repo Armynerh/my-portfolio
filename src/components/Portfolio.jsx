@@ -15,9 +15,9 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      src: math,
-      liveLink: 'https://math-magic-0phk.onrender.com/',
-      sourceLink: 'https://github.com/Armynerh/math_magicians',
+      src: wed,
+      liveLink: 'https://www.loom.com/share/222a405f804546c9bd0132da6cb2932e?sid=0e09cd68-24e0-48a4-a208-b955704ab3f3',
+      sourceLink: 'https://github.com/Armynerh/wedding-application',
     },
     {
       id: 3,
@@ -53,7 +53,7 @@ const Portfolio = () => {
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img src={src} alt="" className="rounded-md duration-200 hover:scale-105" />
               <div className="flex items-center justify-center">
-                <a href={liveLink} target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-r from-gray-600 to-teal-700 cursor-pointer text-white rounded-md">Live</a>
+                <a href={liveLink} target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-r from-gray-600 to-teal-700 cursor-pointer text-white rounded-md">Demo</a>
                 <a href={sourceLink} target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105 bg-gradient-to-r from-gray-600 to-teal-700 cursor-pointer text-white rounded-md">Source</a>
               </div>
             </div>
